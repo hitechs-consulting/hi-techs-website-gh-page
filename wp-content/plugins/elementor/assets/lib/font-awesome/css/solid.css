@@ -7,8 +7,8 @@
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url("/hitechs-consulting/hi-techs-website/main/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot");
-  src: url("/hitechs-consulting/hi-techs-website/main/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot#iefix") format("embedded-opentype"), url("/hitechs-consulting/hi-techs-website/main/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2") format("woff2"), url("/hitechs-consulting/hi-techs-website/main/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff") format("woff"), url("/hitechs-consulting/hi-techs-website/main/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf") format("truetype"), url("/hitechs-consulting/hi-techs-website/main/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
+  src: url("hi-techs-website/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot");
+  src: url("hi-techs-website/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot#iefix") format("embedded-opentype"), url("hi-techs-website/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2") format("woff2"), url("hi-techs-website/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff") format("woff"), url("hi-techs-website/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf") format("truetype"), url("hi-techs-website/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
 
 .fa,
 .fas {

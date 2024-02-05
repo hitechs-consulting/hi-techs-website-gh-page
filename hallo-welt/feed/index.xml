@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare zu: Hallo Welt!	</title>
-	<atom:link href="hi-techs-website/hallo-welt/feed/" rel="self" type="application/rss+xml" />
-	<link>hi-techs-website/hallo-welt/</link>
+	<atom:link href="hallo-welt/feed/" rel="self" type="application/rss+xml" />
+	<link>hallo-welt/</link>
 	<description>Digital Agency Website</description>
 	<lastBuildDate>Fri, 05 Jan 2024 10:05:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Von: Ein WordPress-Kommentator		</title>
-		<link>hi-techs-website/hallo-welt/#comment-1</link>
+		<link>hallo-welt/#comment-1</link>
 
 		<dc:creator><![CDATA[Ein WordPress-Kommentator]]></dc:creator>
 		<pubDate>Fri, 05 Jan 2024 10:05:35 +0000</pubDate>
-		<guid isPermaLink="false">hi-techs-website/?p=1#comment-1</guid>
+		<guid isPermaLink="false">?p=1#comment-1</guid>
 
 					<description><![CDATA[Hallo, dies ist ein Kommentar.
 Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuche bitte die Kommentare-Ansicht im Dashboard.

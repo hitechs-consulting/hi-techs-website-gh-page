@@ -1,0 +1,17 @@
+.elementor-26476 .elementor-element.elementor-element-01f6io8 > .elementor-container{max-width:750px;min-height:0px;}.elementor-26476 .elementor-element.elementor-element-01f6io8 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-26476 .elementor-element.elementor-element-01f6io8:not(.elementor-motion-effects-element-type-background), .elementor-26476 .elementor-element.elementor-element-01f6io8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-26476 .elementor-element.elementor-element-01f6io8 > .elementor-background-overlay{background-color:var( --e-global-color-ad2bfe5 );opacity:1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-26476 .elementor-element.elementor-element-01f6io8{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:50px 100px 50px 100px;}.elementor-26476 .elementor-element.elementor-element-14524f7{columns:1;column-gap:25px;text-align:left;}.elementor-26476 .elementor-element.elementor-element-14524f7 > .elementor-widget-container{margin:0px 0px 0px 0px;}@media(max-width:1024px){.elementor-26476 .elementor-element.elementor-element-01f6io8{padding:90px 25px 90px 25px;}}@media(max-width:767px){.elementor-26476 .elementor-element.elementor-element-01f6io8{padding:75px 20px 75px 20px;}}/* Start custom CSS for section, class: .elementor-element-01f6io8 */body:not(.elementor-editor-active) .elementor-26476 .elementor-element.elementor-element-01f6io8{
+    max-height: 510px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.elementor-26476 .elementor-element.elementor-element-01f6io8::-webkit-scrollbar{
+width: 23px;
+}
+
+.elementor-26476 .elementor-element.elementor-element-01f6io8::-webkit-scrollbar-track{
+background: rgba(144, 144, 144, 0.1);
+}
+
+.elementor-26476 .elementor-element.elementor-element-01f6io8::-webkit-scrollbar-thumb{
+background: rgba(144, 144, 144, 0.31);
+}/* End custom CSS */

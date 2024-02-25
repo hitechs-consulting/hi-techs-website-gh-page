@@ -9,8 +9,8 @@
 
 <channel>
 	<title>HiTechs</title>
-	<atom:link href="/hitechs-consulting/hi-techs-website/main/feed/" rel="self" type="application/rss+xml" />
-	<link>/hitechs-consulting/hi-techs-website/main</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Digital Agency Website</description>
 	<lastBuildDate>Fri, 05 Jan 2024 10:05:35 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Hallo Welt!</title>
-		<link>/hitechs-consulting/hi-techs-website/main/hallo-welt/</link>
-					<comments>/hitechs-consulting/hi-techs-website/main/hallo-welt/#comments</comments>
+		<link>./../hallo-welt/index.html</link>
+					<comments>./../hallo-welt/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[oemer]]></dc:creator>
 		<pubDate>Fri, 05 Jan 2024 10:05:35 +0000</pubDate>
 				<category><![CDATA[Allgemein]]></category>
-		<guid isPermaLink="false">/hitechs-consulting/hi-techs-website/main/?p=1</guid>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
 
 					<description><![CDATA[Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!]]></description>
 										<content:encoded><![CDATA[
 <p>Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hitechs-consulting/hi-techs-website/main/hallo-welt/feed/</wfw:commentRss>
+					<wfw:commentRss>./../hallo-welt/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
